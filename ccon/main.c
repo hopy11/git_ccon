@@ -7,6 +7,7 @@ int main(void)
 {
 	puts("hello world!");
 	puts("hello git!");
-	fix 1
+	for(int i = 10;i < 100;++i) 
+		printf("%d ",i);
 	return 0;
 }
