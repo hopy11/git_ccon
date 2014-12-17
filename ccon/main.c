@@ -7,5 +7,6 @@ int main(void)
 {
 	puts("hello world!");
 	puts("hello git!");
+	fix 1
 	return 0;
 }
